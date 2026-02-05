@@ -1,8 +1,3 @@
-# Git-Practice
-Only for Open Source Contribution Practice
+Data Structure and Algorithms Sample Code Mentioned for Git Pratice
 
-This change is made inside a new branch.
-
-Again attempt second change in my Personal Branch
-
-Again attempt third - change in my personal branch Day mentioned - 04 Feb 2026
+Starts from 06 Feb 2026
